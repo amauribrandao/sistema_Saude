@@ -1,0 +1,2 @@
+module Saude::HomeHelper
+end
